@@ -2,6 +2,7 @@
     id: string;
     nome: string;
     renda: number;
+    orcamentoDiario: number;
  }
 
 export interface ITransacoes {

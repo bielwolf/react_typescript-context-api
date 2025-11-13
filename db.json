@@ -1,9 +1,22 @@
 {
   "usuarios": [
     {
-      "id": "9e4b",
+      "id": "c610",
       "nome": "Gabriel Lobo da Silva ",
-      "renda": "3000"
+      "renda": "3000",
+      "orcamentoDiario": 100
+    },
+    {
+      "id": "49d2",
+      "nome": "Gabriel",
+      "renda": "2.500",
+      "orcamentoDiario": 0.08333333333333333
+    },
+    {
+      "id": "9511",
+      "nome": "Gabriel Lobo ",
+      "renda": "15000",
+      "orcamentoDiario": 500
     }
   ],
   "transacoes": []
