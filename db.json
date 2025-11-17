@@ -17,7 +17,41 @@
       "nome": "Gabriel Lobo ",
       "renda": "15000",
       "orcamentoDiario": 500
+    },
+    {
+      "id": "82cf",
+      "nome": "Gabriel",
+      "renda": "5000",
+      "orcamentoDiario": 161.66666666666666
     }
   ],
-  "transacoes": []
+  "transacoes": [
+    {
+      "id": "890f",
+      "nome": "Padaria",
+      "valor": 5,
+      "tipo": "despesa",
+      "categoria": "Alimentação",
+      "data": "2025-11-13",
+      "userId": "82cf"
+    },
+    {
+      "id": "1657",
+      "nome": "Pix",
+      "valor": 200,
+      "tipo": "receita",
+      "categoria": "Receita",
+      "data": "2025-11-13",
+      "userId": "82cf"
+    },
+    {
+      "id": "62ae",
+      "nome": "Faxina",
+      "valor": 200,
+      "tipo": "despesa",
+      "categoria": "Higiene",
+      "data": "2025-11-13",
+      "userId": "82cf"
+    }
+  ]
 }
